@@ -11,6 +11,8 @@
     "strict": true,
     "skipLibCheck": true,
     "noImplicitAny": true,
+    "jsx": "react",
+    "jsxFactory": "elements.createElement",
     "useUnknownInCatchVariables": false,
     "lib": ["ESNext", "ES2022"]
   },

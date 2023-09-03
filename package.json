@@ -17,6 +17,7 @@
     "pug": "^3.0.2",
     "reflect-metadata": "^0.1.13",
     "ts-node": "^10.9.1",
+    "typed-html": "^3.0.1",
     "typeorm": "^0.3.17"
   },
   "devDependencies": {
